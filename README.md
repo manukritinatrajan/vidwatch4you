@@ -1,6 +1,6 @@
-VidTube
+vidwatch4you
 
-VidTube is a YouTube clone built using ReactJS and the YouTube API. It allows users to watch videos, search for videos, and authenticate users. This project is continuously updated to provide users with an enhanced video watching experience.
+vidwatch4you is a YouTube clone built using ReactJS and the YouTube API. It allows users to watch videos, search for videos, and authenticate users. This project is continuously updated to provide users with an enhanced video watching experience.
 
 Features:-
 
@@ -13,4 +13,3 @@ Technologies Used:-
 
 ReactJS: Frontend development framework.
 YouTube API: Accesses YouTube's vast collection of videos.
-Vercel: Platform for continuous deployment and hosting.
